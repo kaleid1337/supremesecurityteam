@@ -1,8 +1,8 @@
 <?php
 define('DB_HOST', 'localhost');
-define('DB_NAME', 'DB_NAME');
-define('DB_USERNAME', 'DB_USER');
-define('DB_PASSWORD', 'DB_PASSWORD');
+define('DB_NAME', 'epiz_26933006_hexed');
+define('DB_USERNAME', 'epiz_26933006');
+define('DB_PASSWORD', 'WcWaODXqnaZ');
 define('ERROR_MESSAGE', 'Could not connect to database.');
 //Make sure to give DB Full access.
 
